@@ -24,9 +24,11 @@ class InterruptibleSocketFrame extends JFrame{
 	private JButton blockingButton;
 	private JButton cancelButton;
 	private JTextArea messages;
-	private TestServer server;
+	private TestServer ;
 	private Thread connectThread;
 	public InterruptibleSocketFrame() {
+		
+		
 		
 	}
 }
