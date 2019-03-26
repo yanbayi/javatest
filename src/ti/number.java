@@ -1,4 +1,4 @@
-package ti;
+
 public class Main{
 	   //分解整数
     public static void emm(){
